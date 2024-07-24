@@ -1,6 +1,8 @@
 <h2 align="center">HTTP ExpressJS Floods Traffic</h1>
 
-If u want it to be used so that everyone can use it, u can use `Ngrok` as a server to get it online thid script.
+<p align="center">
+    <img width="250" src="screenshot/Screenshot_20240725-000439_Chrome.jpg" alt="Console">
+</p>
 
 #### The following is Information in details input
 
@@ -35,7 +37,7 @@ node app.js
 
 #### Ngrok server
 
-u want to put this web script server online with Ngrok, u can follow the steps below, but u must already have the Ngrok token, if you dont have it, you can first [Register Ngrok](https://dashboard.ngrok.com/).
+Put online scripted for free use ngrok!  [Register Ngrok](https://dashboard.ngrok.com/).
 
 
 - Installation resource ngrok
