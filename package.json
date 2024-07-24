@@ -1,0 +1,39 @@
+{
+  "name": "webjsflood",
+  "version": "1.8.1",
+  "description": "http request can make good with web ui, build technology expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustofa Bovalone",
+  "license": "MIT",
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "g": "^2.0.1",
+    "multer": "^1.4.5-lts.1",
+    "ngrok": "^5.0.0-beta.2",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7",
+    "pm2": "^5.4.2",
+    "ws": "^8.14.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bovalonee/webjsflood.git"
+  },
+  "keywords": [
+    "expressjs",
+    "webui",
+    "ddos",
+    "httpflood",
+    "httprequest"
+  ],
+  "bugs": {
+    "url": "https://github.com/bovalonee/webjsflood/issues"
+  },
+  "homepage": "https://github.com/bovalonee/webjsflood#readme",
+  "devDependencies": {}
+}
