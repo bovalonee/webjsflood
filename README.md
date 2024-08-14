@@ -26,7 +26,7 @@ npm install express cloudscraper ws multer fs path
 
 
 ```javascript
-npm install webjsflood && mv node_modules/webjsflood ./ && cd webjsflood
+git clone https://github.com/bovalonee/webjsflood.git && cd webjsflood
 ```
 
 #### Lets try
